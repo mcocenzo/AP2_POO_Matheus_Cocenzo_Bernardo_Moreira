@@ -1,0 +1,5 @@
+Abra um terminal e execute o seguinte comando para compilar todas as classes.
+
+javac -cp ".:sqlite-jdbc.jar:slf4j-api.jar:slf4j-simple.jar" *.java
+
+Após a compilação é só executar a classe Main.
